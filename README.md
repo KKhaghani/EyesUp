@@ -1,2 +1,4 @@
 # Eyes Up
 Eyes Up is a mobile app that generates predictions for users based on personality settings and observations of the celestial bodies. In a word, astrology. 
+
+Our business model is relatively open. We invite collaborators to contribute to Eyes Up, which is why we've settled on the MIT license. We chose a license that was simple to read and understand and that would follow any distributive works. The MIT license is not a copyleft license, so distributed versions of Eyes Up could be relicensed as proprietary works. But Eyes Up is about collaboration, not competition. In fact, our business model relies on it: upgrading to a Premium Eyes Up account lets you add other Premium members and updates your predictions accordingly. Want to know what happens when a Taurus walks into your life in late April? Purchase the Eyes Up Premium seasonal membership plan!
